@@ -1,4 +1,4 @@
-Django==2.0.2
+Django==2.2.13
 pip==20.1.1
 pytz==2020.1
 setuptools==41.2.0
